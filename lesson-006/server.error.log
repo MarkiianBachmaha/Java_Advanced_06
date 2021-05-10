@@ -1,0 +1,15 @@
+2021-05-10 15:19:42 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:20:17 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:20:37 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:20:56 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:21:03 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:21:18 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:30:39 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:30:41 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:36:08 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:37:17 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:40:32 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:44:57 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:44:59 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:47:51 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-05-10 15:49:59 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
